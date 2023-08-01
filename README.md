@@ -23,3 +23,8 @@ I completed the task by taking the following steps:
 
 
 ![Alt text](Dashboard_Screenshot.png)
+
+
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
