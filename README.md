@@ -21,6 +21,9 @@ I completed the task by taking the following steps:
    
    I finally set an update to all the plots when a new sample is selected.
 
+   # Dashboard link
+    https://chiomauche.github.io/Belly-Button-Biodiversity-Analysis/
+
 
 ![Alt text](Dashboard_Screenshot.png)
 
