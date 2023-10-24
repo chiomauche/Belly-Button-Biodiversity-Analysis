@@ -5,7 +5,7 @@
 
 # For the analysis:
 * I used JavaScript to display data on an interactive dashboard. The JSON data was read from an external site using D3 and drop down was  populated.
-* Bar chart, bubble chart, and gauge chart were created with Plotly.
+* I created bar chart, bubble chart, and gauge chart with Plotly.
 
 * I completed the task by taking the following steps:
 * I used the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
@@ -25,6 +25,12 @@
 
 ![Alt text](<Screenshot 2023-10-24 040633.png>)
    
+
+* I adapted the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+* I modified the example gauge code to account for values ranging from 0 through 10.
+
+![Alt text](<Screenshot 2023-10-24 041307.png>)
+
 * I finally set an update to all the plots when a new sample is selected.
 
 
